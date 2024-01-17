@@ -1,0 +1,7 @@
+                                                  Module
+In this chapter we will learn some modules
+
+	1. Pillow
+	2. os
+	3. shutil
+	4. tkinter etc.	
